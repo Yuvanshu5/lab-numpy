@@ -39,6 +39,19 @@ Continue answering each question until you reach the end of `main.py`.
 
 - `main.py` with your responses to each of the instructions.
 
+## Notes
+
+- A completed solution file has been added at `your-code/main.py`.
+- Run the solution with:
+
+```bash
+git clone https://github.com/Yuvanshu5/lab-numpy.git
+cd lab-numpy
+to run the solution:
+cd your-code
+python main.py
+```
+
 ## Submission
 
 Upon completion, add your version of `main.py` to git. Then commit git and push your branch to the remote.
