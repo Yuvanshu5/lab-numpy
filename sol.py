@@ -1,5 +1,7 @@
 import numpy as np
 
+# Solution for the NumPy lab exercises.
+
 # 1. Import NumPy under the name np.
 
 # 2. Print your NumPy version.
